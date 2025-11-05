@@ -9,8 +9,14 @@
 - Vitest tests
 ---
 
-## 🚀 Запуск проекта
+## Project launch
 
-```bash
+git clone: https://github.com/itsaleks-dev/50
+
 npm install
 npm run dev
+npm run test
+
+## Demo
+
+Vercel: https://50-ti9q.vercel.app
